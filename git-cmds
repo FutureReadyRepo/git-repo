@@ -3,5 +3,6 @@
 3. git commit -m "comment"
 4. git push
 5. git fetch
-6. git checkout
+6. git checkout <commit id>
+7. git checkout -b <branch-name>
 7. git branch
